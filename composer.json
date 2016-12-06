@@ -19,5 +19,5 @@
             "UnlemBilisim\\Bulut\\": "src/UnlemBilisim/Bulut"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "master"
 }
