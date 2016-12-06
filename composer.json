@@ -1,0 +1,25 @@
+{
+    "name": "unlembilisim/orgenus",
+    "description": "Bulut",
+    "homepage": "http://unlembilisim.com/",
+    "keywords": ["efatura", "edefter", "edönüşüm"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Orhan Gazi Basli",
+            "email": "obasli@unlembilisim.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "sabre/xml": "1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "UnlemBilisim\\Bulut\\": "src/UnlemBilisim/Bulut"
+        }
+    },
+    "minimum-stability": "stable"
+}
