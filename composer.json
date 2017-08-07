@@ -18,6 +18,5 @@
         "psr-4": {
             "UnlemBilisim\\Bulut\\": "src/UnlemBilisim/Bulut"
         }
-    },
-    "minimum-stability": "master"
+    }
 }
